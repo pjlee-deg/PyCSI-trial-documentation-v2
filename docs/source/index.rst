@@ -30,3 +30,4 @@ PyCSI
    usage
    API
    hello
+   PyCSI-home
