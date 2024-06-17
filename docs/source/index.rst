@@ -22,6 +22,8 @@ Hello
 --------
 Contents
 --------
+PyCSI
+--------
 
 .. toctree::
 
