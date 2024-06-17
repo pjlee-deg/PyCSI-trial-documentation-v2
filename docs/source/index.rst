@@ -26,4 +26,5 @@ Contents
 .. toctree::
 
    usage
-   api
+   API
+   hello
