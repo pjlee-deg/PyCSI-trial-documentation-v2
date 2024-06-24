@@ -6,4 +6,3 @@ numpy==1.26.4
 matplotlib==3.8.0
 openpyxl==3.0.10
 pandas==2.2.2
-pywin32==305.1
