@@ -27,6 +27,14 @@ Contents
 you can use the ``lumache.get_random_ingredients()`` function:
 
 .. autofunction:: lumache.get_random_ingredients
+
+you can use the ``file.save()`` function:
+
+.. autofunction:: file.save  
+
+you can use the ``analysis.set_load_cases_to_run()`` function:
+
+.. autofunction:: analysis.set_load_cases_to_run     
 --------
 PyCSI
 --------

@@ -1,12 +1,8 @@
 PyCSI
 =====
 
-Copyright disclaimer:
-                     
-
+Copyright disclaimer:               
 © 2015 - 2024 Degenkolb Engineers All Rights Reserved.
-                                                      
-
 Content may not be reproduced, transmitted, distributed, or transferred in any form or by any means without Degenkolb Engineers’ prior written consent.
                                                                                                                                                        
 
