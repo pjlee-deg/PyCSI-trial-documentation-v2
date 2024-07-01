@@ -42,6 +42,6 @@ PyCSI
 .. toctree::
 
    usage
-   API
+
    hello
    PyCSI-home
