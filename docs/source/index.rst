@@ -49,5 +49,6 @@ PyCSI
    usage
    API
    hello
+   Autodoc_usage
    PyCSI-home
 
