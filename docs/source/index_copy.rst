@@ -28,18 +28,13 @@ you can use the ``lumache.get_random_ingredients()`` function:
 
 .. autofunction:: lumache.get_random_ingredients
 
+you can use the ``file.save()`` function:
 
-this is also possible 
+.. autofunction:: file.save  
 
-.. automodule:: file
-   :members:
+you can use the ``analysis.set_load_cases_to_run()`` function:
 
-.. .. automodule:: lumache
-..    :members:
-
-.. you can use the ``Trial.open_file()`` function:
-
-.. .. autofunction:: Trial.open_file     
+.. autofunction:: analysis.set_load_cases_to_run     
 --------
 PyCSI
 --------
@@ -50,4 +45,3 @@ PyCSI
    API
    hello
    PyCSI-home
-
