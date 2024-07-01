@@ -1,9 +1,9 @@
 Autodoc usage
 =====
 
-.. _installation:
+.. _Here are some ways to use Autodoc:
 
-Installation
+You can also edit the content in between autodoc features
 ------------
 
 One class in the ``file`` module of PyCSI is
