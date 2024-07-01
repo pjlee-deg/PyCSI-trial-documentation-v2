@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'PyCSI'
+copyright = '2021, Degenkolb Engineers'
+author = 'Peter Lee'
 
 import os
 import sys
